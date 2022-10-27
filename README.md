@@ -12,5 +12,5 @@
 - Favorite Linux distro: Manjaro, Kali
 - Hotline Miami 2 is best game ever 
 - VScode <3
-- Brave < Chrome
+- Brave < Chrome  
 ![](https://dcbadge.vercel.app/api/shield/357887965185310723)
