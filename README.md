@@ -13,4 +13,6 @@
 - Hotline Miami 2 is best game ever 
 - VScode <3
 - Brave < Chrome
-![](https://dcbadge.vercel.app/api/shield/357887965185310723?bot=false&style=flat)  
+<br/>
+![](https://dcbadge.vercel.app/api/shield/357887965185310723?style=flat)
+[![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://twitter.com/mr00k3)
