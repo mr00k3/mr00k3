@@ -1,7 +1,7 @@
 # Hi 👋
 
 ## About me 
-- mr00k3 \/ <img width="50px" src="floppa.gif">
+- mr00k3 <img width="20px" src="floppa.gif">
 - beginner frontend and backend developer
 - beginner security researcher
 
