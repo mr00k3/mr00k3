@@ -15,4 +15,3 @@
 - Brave < Chrome
 <br/>
 ![](https://dcbadge.vercel.app/api/shield/357887965185310723?style=flat)
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/mr00k3)
