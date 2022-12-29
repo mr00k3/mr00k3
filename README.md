@@ -3,13 +3,13 @@
 ## About me 
 - mr00k3 <img width="20px" src="floppa.gif">
 - beginner frontend and backend developer
+- beginner discord bots dev
 - beginner security researcher
 - android modder
-
 ## Projects
-- mr00k3 website (soon)
+- PiwnicaBot (discord bot)
 ## Facts
-- Favorite Linux distro: Manjaro, Arch, Kali
+- Favorite Linux distro: Arch, Manjaro, Kali,  Ubuntu (only for server)
 - Hotline Miami 2 is best game ever 
 - VScode <3
 - Brave > Chrome    
