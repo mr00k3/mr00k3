@@ -2,12 +2,12 @@
 
 ## About me 
 - mr00k3 <img width="20px" src="floppa.gif">
-- beginner frontend and backend developer
-- beginner discord bots dev
-- beginner security researcher
+- beginner haksior
 - android modder
+- iphone modder
 ## Projects
 - PiwnicaBot (discord bot)
+- Few OpenCore EFI
 ## Facts
 - Favorite Linux distro: Arch, Manjaro, Kali,  Ubuntu (only for server)
 - Hotline Miami 2 is best game ever 
