@@ -8,8 +8,9 @@
 ## Projects
 - PiwnicaBot (discord bot)
 - Few OpenCore EFI
+- Plasma 5 things lol
 ## Facts
-- Favorite Linux distro: Arch, Manjaro, Kali,  Ubuntu (only for server)
+- Favorite Linux distro: Arch, Manjaro, Kali, Fedora Server
 - Hotline Miami 2 is best game ever 
 - VScode <3
 - Brave > Chrome    
