@@ -1,0 +1,26 @@
+# ansi_escape_colors.toml
+
+[yoru]
+        [yoru.default_colors]
+        fg = "#edeff0"
+        bg = "#0d1117"
+
+        [yoru.normal_colors]
+        black = "#232526"
+        red = "#ff7b72" #added
+        green = "#7ee787" #added
+        yellow = "#ffa657" #added
+        blue = "#79c0ff" #added 
+        magenta = "#d2a8ff" #added
+        cyan = "#67afc1"
+        white = "#e4e6e7"
+
+        [yoru.bright_colors]
+        black = "#2c2e2f"
+        red = "#e8646a"
+        green = "#81c19b"
+        yellow = "#e79881"
+        blue = "#709ad2"
+        magenta = "#c58cec"
+        cyan = "#70b8ca"
+        white = "#f2f4f5"
