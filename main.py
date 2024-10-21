@@ -43,7 +43,7 @@ t.gen_text(text="    \x1b[34mInterests: \x1b[31mLinux, iOS jailbreak, Android Ke
 t.gen_text(text="", row_num=8)
 t.gen_text(text="    \x1b[30;43m Contact: \x1b[0m", row_num=9)
 t.gen_text(text="    --------------", row_num=10)
-t.gen_text(text="    \x1b[34memail: \x1b[31mmr00k3@protonmail.com\x1b[0m", row_num=11)
+t.gen_text(text="    \x1b[34memail: \x1b[31mmr00k3ziks@protonmail.com\x1b[0m", row_num=11)
 t.gen_text(text="    \x1b[34mdiscord: \x1b[31m@mr00k3_dev\x1b[0m", row_num=12)
 t.gen_text(text="    \x1b[34mtelegram: \x1b[31m@mr00k3\x1b[0m", row_num=13)
 t.gen_text(text="", row_num=14)
